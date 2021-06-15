@@ -2,7 +2,7 @@
 
 ## Front-end
 
-* React
+* **React**
 * Angular
 * Webpack
 * ESLint
