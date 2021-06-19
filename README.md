@@ -4,7 +4,7 @@
 ## Front-end
 
 * **React**
-* Angular
+* **Angular**
 * Webpack
 * ESLint
 * ES6
